@@ -1,0 +1,7 @@
+pandas
+flask
+daiquiri
+gevent
+gunicorn
+codecov
+raven[flask]

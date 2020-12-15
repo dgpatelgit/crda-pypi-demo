@@ -1,2 +1,3 @@
-# crda-pypi-demo
-Demo repository to show case code ready dependency analytics 
+# f8a-pypi-insights
+This demo repository contains the code for sample python flask app.
+
